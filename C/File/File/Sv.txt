@@ -1,0 +1,5 @@
+5
+3 Ho Xuan Thien 13 9.00 8.00 9.00 8.67
+2 do tinh quang 13 8.00 9.00 7.00 8.00
+1 do quang tinh 12 6.00 7.00 8.00 7.00
+4 Thanh Nhut Nguyen 13 8.00 6.00 7.00 7.00
