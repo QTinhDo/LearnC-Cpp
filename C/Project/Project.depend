@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1689649420 source:d:\learn c-c++\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"ringbuf.h"
+	"min.h"
+	<time.h>
+	<errno.h>
+
+1689601413 d:\learn c-c++\project\ringbuf.h
+	<stdint.h>
+	<stdint.h>
+	<stdbool.h>
+
+1689581581 d:\learn c-c++\project\min.h
+	<stdint.h>
+	<stdbool.h>
+
+1689596479 source:d:\learn c-c++\project\min.c
+	"min.h"
+
+1689601398 source:d:\learn c-c++\project\ringbuf.c
+	"ringbuf.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689596479 source:d:\learn c-c++\minprotocol\min.c
+	"min.h"
+
+1689581581 d:\learn c-c++\minprotocol\min.h
+	<stdint.h>
+	<stdbool.h>
+
+1689597244 source:d:\learn c-c++\minprotocol\main.c
+	<stdio.h>
+	<stdlib.h>
+	"min.h"
+

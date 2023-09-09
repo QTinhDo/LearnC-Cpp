@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1689229448 source:d:\learn c-c++\pointer\pointer\lib.c
+	<stdio.h>
+	"lib.h"
+
+1689229448 d:\learn c-c++\pointer\pointer\lib.h
+
+1689231475 source:d:\learn c-c++\pointer\pointer\main.c
+	<stdio.h>
+	<conio.h>
+	"lib.h"
+

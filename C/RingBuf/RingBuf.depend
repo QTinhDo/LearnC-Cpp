@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689576349 source:d:\learn c-c++\ringbuf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"ringbuf.h"
+
+1689568514 source:d:\learn c-c++\ringbuf\ringbuf.c
+	"ringbuf.h"
+
+1689568228 d:\learn c-c++\ringbuf\ringbuf.h
+	<stdint.h>
+

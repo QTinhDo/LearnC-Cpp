@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689325376 source:d:\learn c-c++\variadic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Log.h"
+
+1689325656 d:\learn c-c++\variadic\log.h
+
+1689324471 source:d:\learn c-c++\variadic\log.c
+	<stdio.h>
+	<stdarg.h>
+	"Log.h"
+

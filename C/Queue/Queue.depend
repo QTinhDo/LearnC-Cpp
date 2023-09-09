@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1689564387 source:d:\learn c-c++\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mul_queue.h"
+
+1689560621 source:d:\learn c-c++\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"queue.h"
+
+1689562049 d:\learn c-c++\queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1689564350 source:d:\learn c-c++\queue\mul_queue.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mul_queue.h"
+
+1689563690 d:\learn c-c++\queue\mul_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1689564387 source:d:\learn c-c++\c\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mul_queue.h"
+
+1689563690 d:\learn c-c++\c\queue\mul_queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1689564350 source:d:\learn c-c++\c\queue\mul_queue.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"mul_queue.h"
+

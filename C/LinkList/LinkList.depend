@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1689312686 source:d:\learn c-c++\linklist\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1689312527 source:d:\learn c-c++\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1689312484 d:\learn c-c++\linklist\list.h
+	<stdbool.h>
+
+1689312686 source:d:\mydata\mydata\learn c-c++\c\linklist\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1689312484 d:\mydata\mydata\learn c-c++\c\linklist\list.h
+	<stdbool.h>
+
+1689312845 source:d:\mydata\mydata\learn c-c++\c\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
