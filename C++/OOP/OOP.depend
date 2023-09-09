@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689683115 source:d:\learn c-c++\c++\oop\donggoi.cpp
+	<iostream>
+	<string>
+
+1689682907 source:d:\learn c-c++\c++\oop\kethua.cpp
+	<iostream>
+
+1690796233 source:d:\learn c-c++\c++\oop\abstract.cpp
+	<iostream>
+
